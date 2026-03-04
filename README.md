@@ -4,10 +4,6 @@ Bà tập môn học: Ứng dụng thuật toán K-Way Merge để sắp xếp c
 
 Được phát triển bằng **C++** và giao diện người dùng bằng **Python (CustomTkinter)**.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-Dark_Mode-black?style=for-the-badge)
-
 ---
 
 ## Tính năng nổi bật (Features)
