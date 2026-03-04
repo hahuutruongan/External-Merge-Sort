@@ -6,7 +6,7 @@ Bài tập môn học: Ứng dụng thuật toán K-Way Merge để sắp xếp 
 
 ---
 
-## Tính năng nổi bật (Features)
+## Tính năng nổi bật
 
 * **Lõi xử lý siêu tốc (High-Performance Core):** Đọc/ghi nhị phân trực tiếp (`double` - 8 bytes) và sử dụng cấu trúc dữ liệu **Min-Heap** cho quá trình K-Way Merge.
 * **Quản lý RAM động (Dynamic Memory Allocation):** Cho phép người dùng giới hạn chính xác lượng RAM cấp phát (hỗ trợ các mốc từ GiB, MiB, KiB xuống tận Byte). Tự động phân chia khối dữ liệu (Chunks) tối ưu.
@@ -14,13 +14,13 @@ Bài tập môn học: Ứng dụng thuật toán K-Way Merge để sắp xếp 
 * **Chế độ minh họa (Illustrate Mode):** Tự động theo dõi và in chi tiết từng bước cắt/trộn dữ liệu ra Console Log đối với các tập tin nhỏ ($\le$ 100 phần tử), hỗ trợ tối đa cho việc trình bày thuật toán.
 * **Tích hợp công cụ kiểm tra (Verification Tool):** Nút bấm một chạm để xác minh tập tin kết quả đã được sắp xếp tăng dần chuẩn xác hay chưa.
 
-## Công nghệ sử dụng (Tech Stack)
+## Công nghệ sử dụng
 
 * **Core:** C++ (Standard Template Library: `<queue>`, `<algorithm>`, `<fstream>`).
 * **GUI:** Python 3 (Thư viện `customtkinter`, `tkinter`, `psutil`, `struct`, `subprocess`).
 * **Packaging:** PyInstaller (Đóng gói lõi C++ và môi trường Python thành tệp thực thi độc lập).
 
-## Cài đặt và Sử dụng (Installation & Usage)
+## Cài đặt và Sử dụng
 
 ### Tải bản chạy trực tiếp (Dành cho Windows)
 Hệ thống đã được đóng gói sẵn thành tệp `.exe`, không cần cài đặt môi trường.
