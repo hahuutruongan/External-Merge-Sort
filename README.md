@@ -25,5 +25,5 @@ Bà tập môn học: Ứng dụng thuật toán K-Way Merge để sắp xếp c
 ### Tải bản chạy trực tiếp (Dành cho Windows)
 Hệ thống đã được đóng gói sẵn thành tệp `.exe`, không cần cài đặt môi trường.
 1. Truy cập vào mục [Releases](../../releases) bên góc phải của Repository này.
-2. Tải xuống tệp `ExternalMergeSort_24520042.exe`.
+2. Tải xuống tệp `SapXepNhiPhan.exe`.
 3. Chạy trực tiếp trên Windows và sử dụng.
