@@ -1,5 +1,4 @@
 # External-Merge-Sort
-# 🚀 External Merge Sort - Binary File Sorting Utility
 
 Bà tập môn học: Ứng dụng thuật toán K-Way Merge để sắp xếp các tập tin dữ liệu nhị phân có kích thước lớn (External Sorting). 
 
