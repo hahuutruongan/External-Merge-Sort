@@ -32,4 +32,6 @@ Hệ thống đã được đóng gói sẵn thành tệp `.exe`, không cần c
 
 1. **Mark Allen Weiss (2013)**, *Data Structures and Algorithm Analysis in C++ (4th Edition)*, Pearson. 
 2. **Tom Schimansky**, *CustomTkinter - A modern and customizable python UI-library based on Tkinter*, truy cập tại: [https://customtkinter.tomschimansky.com/](https://customtkinter.tomschimansky.com/) 
-3. **Giampaolo Rodola**, *psutil (python system and process utilities) documentation*, truy cập tại: [https://psutil.readthedocs.io/](https://psutil.readthedocs.io/) 
+3. **Giampaolo Rodola**, *psutil (python system and process utilities) documentation*, truy cập tại: [https://psutil.readthedocs.io/](https://psutil.readthedocs.io/)
+4. **Python Software Foundation**, Python 3 Standard Library (subprocess, struct), truy cập tại: [https://docs.python.org/3/]
+5. **C++ Reference**, C++ Standard Library: <queue>, <fstream>, <algorithm>, truy cập tại: [https://en.cppreference.com/]
