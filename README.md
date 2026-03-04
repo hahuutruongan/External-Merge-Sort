@@ -9,7 +9,7 @@ Bài tập môn học: Ứng dụng thuật toán K-Way Merge để sắp xếp 
 ## Tính năng nổi bật
 
 * **Lõi xử lý siêu tốc (High-Performance Core):** Đọc/ghi nhị phân trực tiếp (`double` - 8 bytes) và sử dụng cấu trúc dữ liệu **Min-Heap** cho quá trình K-Way Merge.
-* **Quản lý RAM động (Dynamic Memory Allocation):** Cho phép người dùng giới hạn chính xác lượng RAM cấp phát (hỗ trợ các mốc từ GiB, MiB, KiB xuống tận Byte). Tự động phân chia khối dữ liệu (Chunks) tối ưu.
+* **Quản lý RAM động (Dynamic Memory Allocation):** Cho phép người dùng giới hạn chính xác lượng RAM cấp phát (hỗ trợ các mốc từ MiB, KiB xuống tận Byte). Tự động phân chia khối dữ liệu (Chunks) tối ưu.
 * **Giao diện Song ngữ (Bilingual UI):** Chuyển đổi mượt mà giữa Tiếng Việt (VI) và Tiếng Anh (EN) ngay trong lúc chạy (Runtime) mà không cần khởi động lại.
 * **Chế độ minh họa (Illustrate Mode):** Tự động theo dõi và in chi tiết từng bước cắt/trộn dữ liệu ra Console Log đối với các tập tin nhỏ ($\le$ 100 phần tử), hỗ trợ tối đa cho việc trình bày thuật toán.
 * **Tích hợp công cụ kiểm tra (Verification Tool):** Nút bấm một chạm để xác minh tập tin kết quả đã được sắp xếp tăng dần chuẩn xác hay chưa.
