@@ -1,6 +1,6 @@
 # External-Merge-Sort
 
-Bà tập môn học: Ứng dụng thuật toán K-Way Merge để sắp xếp các tập tin dữ liệu nhị phân có kích thước lớn (External Sorting). 
+Bài tập môn học: Ứng dụng thuật toán K-Way Merge để sắp xếp các tập tin dữ liệu nhị phân có kích thước lớn (External Sorting). 
 
 Được phát triển bằng **C++** và giao diện người dùng bằng **Python (CustomTkinter)**.
 
